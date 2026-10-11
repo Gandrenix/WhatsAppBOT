@@ -1,0 +1,15 @@
+{
+  "menu": "👑 *Morgan le Fae*, Reina de Avalon. Estás ante la recepción del *Centro de Nutrición Avalon*.\n\nHabla, querida. Elige una opción (envía el número) o simplemente cuéntame qué necesitas:\n\n*1* · Planes y precios\n*2* · Horarios\n*3* · Condiciones especiales (embarazo, salud hormonal, etc.)\n*4* · Agendar una cita\n*5* · Ubicación\n\nNo tengo todo el día... bueno, técnicamente sí. Pero aun así. ✨",
+  "horarios": "🕰️ *Horarios de atención*\n\n• Lunes a viernes: 8:00 a.m. – 12:00 m. y 2:00 p.m. – 6:00 p.m.\n• Sábados: 8:00 a.m. – 12:00 m.\n• Domingos y festivos: cerrado\n\nLas citas *virtuales* de lunes a jueves también tienen cupo de 7:00 a 8:00 p.m.\n\n¿Quieres que te anote para una cita?",
+  "ubicacion": "📍 *Centro de Nutrición Avalon*\nCarrera 27 # 45-12, Consultorio 502, Edificio Cabecera Medical, Bucaramanga.\n\nA dos cuadras del Parque de las Palmas. Hay parqueadero en el edificio y acceso por ascensor.\n\nTambién atendemos por videollamada, si prefieres no moverte de tus aposentos. 😌",
+  "opciones": {
+    "1": "Cuéntame los planes, servicios y precios del centro.",
+    "2": "@horarios",
+    "3": "Cuéntame las condiciones especiales: a quién atienden, embarazo, salud hormonal, trastornos alimentarios, menores de edad y demás.",
+    "4": "Quiero agendar una cita.",
+    "5": "@ubicacion"
+  },
+  "saludos": ["hola", "holaa", "buenas", "buenos dias", "buen dia", "buenas tardes", "buenas noches", "hey", "ola", "menu", "menú", "inicio", "start", "ayuda", "opciones"],
+  "fallo": "Mis hechizos de conversación fallaron un instante. 🌫️ Escríbeme de nuevo en un minuto; si es urgente, una asistente humana te atenderá en horario de atención.",
+  "no_texto": "Mis ojos de reina solo leen texto, querida. Escríbeme tu consulta con palabras. ✍️"
+}
